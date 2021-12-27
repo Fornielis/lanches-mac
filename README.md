@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-Aplicação desenvolvida no curso que fiz para me atualizar com <b>ASP.NET core 5</b>.
+Aplicação desenvolvida no curso que fiz para me atualizar com <b>ASP.NET core 6</b>.
 </p>
 
 <h1 align="center">
